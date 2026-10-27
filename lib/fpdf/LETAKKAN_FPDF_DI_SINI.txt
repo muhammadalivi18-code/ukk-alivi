@@ -1,0 +1,2 @@
+Unduh FPDF dari https://www.fpdf.org lalu salin fpdf.php (dan folder font) ke folder ini.
+Hasil akhir: lib/fpdf/fpdf.php dan lib/fpdf/font/
